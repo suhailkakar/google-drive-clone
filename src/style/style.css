@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background-color: #fff !important;
+  border-bottom: 1px solid #dadce0;
+}
+.nav__logo {
+  display: flex;
+}
+.nav__logo__name  {
+margin-top: -60%;
+    font-family: 'Product Sans',Arial,sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    margin-left: 100%;
+    position: relative;
+    vertical-align: middle;
+    color: #5f6368;
+opacity: 1;
+}
+.add_new {
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%);
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 24px;
+    color: #3c4043;
+    display: inline-flex;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    height: 48px;
+    letter-spacing: .15px;
+    line-height: 22px;
+    min-width: 120px;
+    padding: 0 24px 0 0;
+    text-transform: none;
+}
+.add_new_text {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+.add_new_image {
+  margin-left: 10%;
+}
+
+.sidebar {
+  max-width: 18%;
+}
+.sidebar__navigation {
+  margin-top: 10%;
+
+}
+.sidebar__navigation__item {
+  display: flex;
+  margin-left: 4%;
+
+}
+
+.sidebar__navigation__item__text {
+  font-size: 14px;
+  margin-left: 10%;
+  color: #5f6368;
+  margin-top: 1%;
+  font-family: 'Roboto', sans-serif;
+}
+a {
+  font-family: sans-serif;
+}
+.sidebar__navigation__line {
+  border-bottom: 1px solid #dadce0;
+
+    margin-bottom: 7%;
+}
+.progress {
+    display: flex;
+    height: 0.5rem;
+    overflow: hidden;
+    line-height: 0;
+    margin-top: -2%;
+    margin-left: 4%;
+    width: 11rem;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+  }
+  .progress_limit {
+    color: #5f6368;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 4%;
+    margin-top: 4%;
+
+  }
+  .buystorage {
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    padding: 6px 23px 6px 23px;
+    font-size: 15px;
+    color: #15c;
+    margin-left: 4%;
+    font-family: 'Roboto';
+
+  }
+  .profile {
+    color: #000;
+    margin-left: 83%;
+  }
