@@ -22,3 +22,23 @@ Google Drive gives you the power to upload and save a range of file types — do
 ### Deployed In
 * [Netlify](https://netlify.com/)
 
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/suhailkakar/google-drive-clone
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+   or 
+   
+     ```sh
+   yarn install
+   ```
+3. Run the app
+   ```sh
+   node src/index.js 
+   ```
