@@ -81,7 +81,7 @@ Google Drive gives you the power to upload and save a range of file types — do
    ```
 3. Run the app
    ```sh
-   node src/index.js 
+   npm start
    ```
    
    
