@@ -22,6 +22,47 @@ Google Drive gives you the power to upload and save a range of file types — do
 ### Deployed In
 * [Netlify](https://netlify.com/)
 
+```bash
+📦  Google-Drive-Clone-main
+├── package.json
+├── package-lock.json
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── README.md
+├── src
+│   ├── components
+│   │   ├── App.js
+│   │   ├── authentication
+│   │   │   ├── CenteredContainer.js
+│   │   │   ├── ForgotPassword.js
+│   │   │   ├── Login.js
+│   │   │   ├── PrivateRoute.js
+│   │   │   ├── Profile.js
+│   │   │   ├── Signup.js
+│   │   │   └── UpdateProfile.js
+│   │   └── google-drive
+│   │       ├── AddFileButton.js
+│   │       ├── AddFolderButton.js
+│   │       ├── Dashboard.js
+│   │       ├── File.js
+│   │       ├── FolderBreadcrumbs.js
+│   │       ├── Folder.js
+│   │       └── Navbar.js
+│   ├── contexts
+│   │   └── AuthContext.js
+│   ├── firebase.js
+│   ├── hooks
+│   │   └── useFolder.js
+│   ├── index.js
+│   └── style
+│       └── style.css
+└── yarn.lock
+```
 
 ### Installation
 
