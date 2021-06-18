@@ -8,6 +8,7 @@
 Google Drive gives you the power to upload and save a range of file types — documents, photos, audio, and videos — to Google servers, or the "cloud." Drive can serve as a backup solution, or as a way to free up space on your device.
 
 
+ <img src="https://i.ibb.co/M52xnzX/screely-1624025703912.png" />
 
 
 
