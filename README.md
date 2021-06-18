@@ -53,3 +53,8 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Some Good Features'`)
 4. Push to the Code (`git push -u origin master `)
 5. Open a Pull Request
+
+
+## License
+
+Google Drive Clone is open source software licensed under the MIT License
