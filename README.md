@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" height="auto" src="https://1000logos.net/wp-content/uploads/2021/04/Google-Drive-logo.png" alt="Twitter Logo" />
+    <img width="200" height="auto" src="https://1000logos.net/wp-content/uploads/2021/04/Google-Drive-logo.png" alt="Google Drive Logo" />
 </p>
    
    <br>
