@@ -1,5 +1,5 @@
 import React from "react"
-import { Navbar, Nav, Button } from "react-bootstrap"
+import { Navbar, Nav, Button,Container } from "react-bootstrap"
 import { Link } from "react-router-dom"
 
 export default function NavbarComponent() {
@@ -12,20 +12,14 @@ export default function NavbarComponent() {
         src="//ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png"
 
         className="d-inline-block align-top"
-        alt="React Bootstrap logo"
+        alt="Google Drive"
       />
       {' '}
       <p className="nav__logo__name">Drive</p>
     </Navbar.Brand>
     <Nav.Link href="#"></Nav.Link>
     <Nav.Link href="#">  </Nav.Link>
-    <Nav.Link className="profile" href="/user">
-    <Button variant="warning">
-    Profile
-    </Button>
-    </Nav.Link>
-
+    
   </Navbar>
-
 </>
 )}
